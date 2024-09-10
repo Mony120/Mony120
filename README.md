@@ -1,4 +1,4 @@
-[![MasterHead](your image link)](your GitHub link)
+![MasterHead](your image link)](your GitHub link)
 ## Hi there 👋
 I'm just studing🔭
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mony120&theme=dark&show_icons=true)
