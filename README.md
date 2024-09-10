@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm just studing🔭
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mony120&theme=dark&show_icons=true)
 
 <!--
 **Mony120/Mony120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
