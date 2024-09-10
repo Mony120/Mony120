@@ -1,5 +1,6 @@
-![MasterHead](your image link)](your GitHub link)
-## Hi there 👋
+<img align="right" alt="Coding" width="400" src="[add your link 
+here](https://pin.it/3rNpvh7mC)">
+## Hi everyone 👋
 I'm just studing🔭
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mony120&theme=dark&show_icons=true)
 
