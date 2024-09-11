@@ -1,7 +1,7 @@
 Peace to all✌️
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/25/ed/7d/25ed7ddeae36fdc5d67a38aaf458fefa.gif">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mony120&theme=radical_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mony120&theme=dark&synthwave_icons=true)
 
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/84/5e/d1/845ed1e6f0f85d4de7ca6f3f3f98e175.jpg">
