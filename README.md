@@ -6,7 +6,7 @@ Peace to all✌️
 
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/84/5e/d1/845ed1e6f0f85d4de7ca6f3f3f98e175.jpg">
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mony120)](https://github.com/mony120/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mony120)](https://github.com/Mony120/github-readme-activity-graph)
 
 <!--
 **Mony120/Mony120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
