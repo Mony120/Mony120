@@ -4,7 +4,5 @@
 ![Статистика](https://github-readme-stats.vercel.app/api?username=Mony120&show_icons=true&theme=radical)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mony120&theme=gruvbox_light_icons=true)
-
 
 
